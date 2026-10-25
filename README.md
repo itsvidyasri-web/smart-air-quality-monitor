@@ -1,4 +1,4 @@
-# 🌿 Smart Air Quality & Weather Alert System
+#  Smart Air Quality & Weather Alert System
 
 > Real-time Air Quality, Weather Forecast & Rain Alert Monitoring System for any city.
 
@@ -34,12 +34,3 @@ This project monitors live environmental data. Users can enter any city (like Ne
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-### 📸 Screenshots
-<img width="1600" height="900" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bd6606d7-780d-4d04-b241-2a21e8a924cc" />
-<img width="1600" height="900" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e15364e3-0ba5-477e-9811-db2efb9d8a24" />
-<img width="1600" height="900" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3870e04e-630e-4880-9879-557a6c611d23" />
-
-
-### 👩‍💻 Developed By
-Vidya Sri K
