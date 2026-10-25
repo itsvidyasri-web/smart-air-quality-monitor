@@ -17,10 +17,11 @@ Live air-quality information and forecast using the Open-Meteo API.
 - Pandas, Plotly
 
 ### 📸 Screenshots
+<img width="1600" height="900" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bd6606d7-780d-4d04-b241-2a21e8a924cc" />
 <img width="1600" height="900" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e15364e3-0ba5-477e-9811-db2efb9d8a24" />
 <img width="1600" height="900" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3870e04e-630e-4880-9879-557a6c611d23" />
-<img width="1600" height="900" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bd6606d7-780d-4d04-b241-2a21e8a924cc" />
-<img width="1600" height="900" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/5f5a06be-f90b-44ff-9c12-2bbac1642ac6" />
+
+
 
 
 ### ⚙️ How to Run Locally
